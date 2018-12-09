@@ -1,0 +1,26 @@
+[ 
+  {
+    "value": "UNIPEDAL",
+    "name": "Unipedal"
+  },
+  {
+    "value": "BIPEDAL",
+    "name": "Bipedal"
+  },
+  {
+    "value": "QUADRUPEDAL",
+    "name": "Quadrupedal"
+  },
+  {
+    "value": "ARACHNID",
+    "name": "Arachnid"
+  },
+  {
+    "value": "RADIAL",
+    "name": "Radial"
+  },
+  {
+    "value": "AERONAUTICAL",
+    "name": "Aeronautical"
+  }
+]

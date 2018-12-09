@@ -1,0 +1,12 @@
+[
+  {
+    "name": "robot1",
+    "type": "Unipedal",
+    "tasks": ["task1", "task2", "task3", "task4", "task5"]
+  },
+  {
+    "name": "robot2",
+    "type": "Bipedal",
+    "tasks": ["task1", "task2", "task3", "task4", "task5"]
+  }
+]

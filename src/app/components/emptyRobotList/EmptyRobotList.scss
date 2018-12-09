@@ -1,0 +1,27 @@
+@import '../../Globals.scss'; 
+
+.EmptyRobotList {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-top: 25px;
+  // background-color: yellow;
+
+  img {
+    width: 400px;
+    align-self: center;
+  }
+
+  h2 {
+    width: 75%;
+    font-size: 35px;
+    text-align: center;
+    margin: auto;
+    margin-top: 30px;
+    color: $white;
+  }
+}
+
+.hide {
+  display: none;
+}

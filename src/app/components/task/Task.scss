@@ -1,0 +1,31 @@
+@import '../../Globals.scss'; 
+
+
+
+.Task {
+  display: flex;
+  width: 100%;
+  height: 20px;
+  margin-top: 5px;  
+  text-align: center;
+  background-color: $lightGreen;
+
+  .desc {
+    font-size: 11px;
+    margin: auto;
+    color: $white;
+  } 
+
+  .points {
+    font-size: 13px;
+    margin: auto;
+    color: $yellow;
+  }
+  .none {
+    color: $red;
+  }
+
+  img {
+    width: 20px;
+  }
+}
